@@ -1,6 +1,6 @@
 # Drump Kit
 <h3>
-Simple project To train Dom Events from HTML </h3>
+Simple project to pratice Dom Events from HTML </h3>
 
 
 ### Preview
