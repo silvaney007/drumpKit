@@ -14,4 +14,4 @@ HTLM
 JavaScript
 </h4>
 
-See this projact on [Drump Kit](https://drump-kit.vercel.app/)
+See this projet on [Drump Kit](https://drump-kit.vercel.app/)
